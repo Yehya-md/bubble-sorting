@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-   int n=10;
+   int n=arr.length;
    int temp;
-   int arr[n]={2,4,6,8,0,1,3,5,7,9};
+   int arr[]={2,4,6,8,0,1,3,5,7,9};
 
    for(int i=0;i<n;i++) {
     for(int j=0;j<n;j++) {
